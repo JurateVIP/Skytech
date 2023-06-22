@@ -1,1 +1,1 @@
-# Skytech testing project in proces.
+# Skytech testing project in process.
